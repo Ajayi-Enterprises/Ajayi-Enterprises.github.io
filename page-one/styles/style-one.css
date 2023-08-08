@@ -1,0 +1,123 @@
+body {
+    margin: 0;
+}
+
+.header {
+    display: inline-flex;
+    margin-left: 2%;
+    
+}
+
+#topname, #tophome, #topblog {
+    font-weight: lighter;
+    margin-top: 1%;
+}
+
+#tophome, #topblog {
+    display: inline-flex;
+    margin-right: 1.5em;
+}
+
+#topleft {
+    margin-top: 1%;
+    margin-left: 80vw;
+}
+
+.hero-image {
+    width: 100%;
+    height: 30rem;
+    background-color: rgb(190, 190, 190);
+}
+
+.expo {
+    text-align: center;
+}
+
+#desc-main, #desc-sub, #description, #desc-end {
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 3%;
+    font-weight: lighter;
+}
+
+#desc-main {
+    font-size: 2.5em;
+}
+
+.carousel {
+    margin-left: 7%;
+}
+
+#carousel-image {
+    width: 250px;
+    height: 200px;
+    margin-right: 7%;
+    margin-top: 10%;
+    background-color: antiquewhite;
+}
+
+.loadmore {
+    margin-top: 3%;
+    text-align: center;
+}
+
+.posts {
+    margin-top: 7%;
+    border-top: 2px;
+    border-bottom: 0;
+    border-left: 0;
+    border-right: 0;
+    border-style: solid;
+    border-color: #c9c9c9;
+    text-align: center;
+    height: 15%;
+}
+
+#postone, #posttwo {
+    font-weight: lighter;
+    margin-top: 5%;
+}
+
+#posttwo {
+    margin-top: 1.5%;
+    margin-bottom: 15%;
+}
+
+.subscribe {
+    text-align: center;
+}
+
+#email-address {
+    width: 30%;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    margin-bottom: 0.5em;
+    padding: 5px;
+}
+
+#submit {
+    width: 30%;
+    background-color: black;
+    color: white;
+    padding: 7px;
+}
+
+#thanks {
+    font-weight: lighter;
+}
+
+.footer {
+    text-align: center;
+}
+
+#icon {
+    width: 24px;
+    height: 24px;
+    border-radius: 30%;
+    background-color: black;
+}
+
+#copyright {
+    font-weight: lighter;
+}
