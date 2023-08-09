@@ -62,6 +62,16 @@ body {
     text-align: center;
 }
 
+#load {
+    background-color: rgb(202, 237, 255);
+    width: 10%;
+    height: 2.7em;
+    /* border-top: 0;
+    border-bottom: 0;
+    border-left: 0;
+    border-right: 0; */
+}
+
 .posts {
     margin-top: 7%;
     border-top: 2px;
